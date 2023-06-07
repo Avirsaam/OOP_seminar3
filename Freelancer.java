@@ -1,7 +1,7 @@
 package seminar03.task2;
 
 /**
- * TODO: Спроектировать класс Freelancer самостоятельно в рамках домашнего задания.
+ * DONE: Спроектировать класс Freelancer самостоятельно в рамках домашнего задания.
  *  *20*8
  */
 public class Freelancer extends Employee {
